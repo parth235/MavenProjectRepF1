@@ -4,6 +4,6 @@ import org.testng.annotations.Test;
 public class NewTest1 {
   @Test
   public void f() {
-	  System.out.println("+++++++++jmp shree");
+	  System.out.println("++++Test+++++jmp shree");
   }
 }
